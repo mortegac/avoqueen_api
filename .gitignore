@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+.DS_Store
+.env.local
+/node_modules
+/db/.env
+/utils/.env
+/node_modules
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/.DS_Store
+
